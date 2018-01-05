@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TV</string>
+
+    <string name="text_channel">请输入TV频道id号</string>
+    <string name="text_settings">频道设置</string>
+    <string name="action_settings">Settings</string>
+</resources>
